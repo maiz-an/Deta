@@ -17,7 +17,7 @@
 
 [<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-[<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
+[<img align="right" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 
 
 
