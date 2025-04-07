@@ -43,7 +43,6 @@ jobs:
           committer_gist: ${{ secrets.GIST }}
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: no
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
