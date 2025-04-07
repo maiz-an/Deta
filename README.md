@@ -1,3 +1,6 @@
+<a href="#">
+  <img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/maiz-an/1af49adc577ff00e0b5bef9044965acf/raw/achievements.svg" />
+</a>
 
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/maiz-an/1af49adc577ff00e0b5bef9044965acf/raw/medias.svg?p"/>](#)
 
